@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I’m Afnan Baig — a versatile Full-Stack Developer with 6+ years of experience building scalable, real-world web applications.
 
-<!--
-**afnan111/afnan111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work across MERN Stack, Next.js, Angular, and Python, and I enjoy solving business problems with clean architecture and efficient code. From startups to enterprise-level projects, I focus on performance, maintainability, and user experience.
 
-Here are some ideas to get you started:
+- ⚡ MERN Stack (MongoDB, Express, React, Node.js)
+- 🅰️ Angular & modern frontend architectures
+- 🐍 Python for scripting, automation & backend tasks
+- 🌐 Next.js, REST APIs, SaaS products
+- 💼 Founder at Webzela
+- 🌍 Based in Berlin, Germany
+- 🤝 Open to remote & on-site opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 GitHub: https://github.com/afnan111
+🔗 LinkedIn: https://www.linkedin.com/in/afnan-baig/
