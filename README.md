@@ -6,7 +6,6 @@ I work across MERN Stack, Next.js, Angular, and Python, and I enjoy solving busi
 - 🅰️ Angular & modern frontend architectures
 - 🐍 Python for scripting, automation & backend tasks
 - 🌐 Next.js, REST APIs, SaaS products
-- 💼 Founder at Webzela
 - 🌍 Based in Berlin, Germany
 - 🤝 Open to remote & on-site opportunities
 
